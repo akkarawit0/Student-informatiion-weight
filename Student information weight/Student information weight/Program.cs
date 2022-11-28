@@ -29,3 +29,5 @@ student5.weight = 50;
 
 double avgwight = (student1.weight + student2.weight + student3.weight + student4.weight + student5.weight) / 5;
 Console.WriteLine("Average weight of 5 friends are : " + avgwight);
+Console.WriteLine("Most Weight : " + student1.weight);
+Console.WriteLine("Less Weight : " + student2.weight);
